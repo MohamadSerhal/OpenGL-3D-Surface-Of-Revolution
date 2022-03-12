@@ -2,7 +2,7 @@
 C++ OpenGL project that allows a user to create a 3D mesh using the surface revolution method.      
 Note: The project might not work immediatly since it requires libraries to be linked correctly. Use visual studio 2019 and open the solution.    
 
-##How to use:
+## How to use:
 - draw points by pressing on the screen
 - press f to draw curve (2D Bspline)
 - press m to change from "edit" to display mode (from 2D to 3D)
